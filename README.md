@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Subheader
 
 Created a subheader.
@@ -32,3 +33,8 @@ Trying out interactive rebase.
 
 Still trying out the interactive rebase.
 >>>>>>> f56e1ee (Another subheader.)
+=======
+# Header
+
+Working in the master branch.
+>>>>>>> 10b19c1 (Created header in readme file.)
