@@ -24,4 +24,11 @@ Created a subheader.
 ## Subheader
 
 Trying out interactive rebase.
+<<<<<<< HEAD
 >>>>>>> 007d848 (Added a subheader.)
+=======
+
+## Subheader
+
+Still trying out the interactive rebase.
+>>>>>>> f56e1ee (Another subheader.)
